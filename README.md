@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+ <img align="right" alt="GIF" src="https://github.com/givenmnisi6/givenmnisi6/blob/main/Images/Image.gif?raw=true"  />
 
-![](https://github.com/givenmnisi6/givenmnisi6/blob/main/Images/Image.gif)
+
 <!--
 **givenmnisi6/givenmnisi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ <img align="right" alt="GIF" src="(https://github.com/givenmnisi6/givenmnisi6/blob/main/Images/Image.gif)" width="500" height="320" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
