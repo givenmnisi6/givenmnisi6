@@ -13,7 +13,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Get in touch with me
-<a href="https://www.linkedin.com/in/given-mnisi-724b2b211/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
