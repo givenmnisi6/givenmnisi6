@@ -1,16 +1,12 @@
 
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm GIVEN MNISI</h1>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Given Mnisi</h1>
 <h3 align="center"> </h3>
 
-<h3 align="center">I am a student.</h3>
-<p> I am a dedicated and ambitious individual who is interested in the Fourth Industrial Revolution. I have great leadership abilities as well as outstanding interpersonal skills, which allow me to communicate with a diverse range of individuals. I am eager to be challenged to use the acquired academic knowledge, and abilities, and achieve professional growth while being resourceful, innovative, and flexible so that I can grow further to improve my IT skills. </p>
+<p> I have a strong academic foundation in Computer Science and IT, with hands-on experience in software development, and game design and development. I have great leadership abilities as well as outstanding interpersonal skills, which allow me to communicate with a diverse range of individuals. I thrive in collaborative environments and have successfully led development teams to deliver impactful and high-quality software solutions. </p>
 
-- 👨🏽‍💻 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨🏽‍💻 **Tech Stack**: Python · Java · Godot game engine · GDScript · SQL · Figma
+🌱 **At the moment**: Natural language processing (NLP)  
+🌍 **Location:** South Africa  
+⚡ **Strengths**: Leadership · Problem-solving · Continous learning · Attention to detail · Team player
 
-
+> 💡 Interested in Cybersecurity, Software development, Game development and design.
